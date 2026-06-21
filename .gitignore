@@ -1,0 +1,17 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+.vscode/
+
+*.sln
+*.suo
+*.user
+*.userosscache
+*.opensdf
+*.VC.db
+
+.DS_Store
+Thumbs.db
