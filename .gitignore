@@ -1,4 +1,4 @@
-Binaries/
+﻿Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
@@ -17,3 +17,7 @@ Saved/
 .DS_Store
 Thumbs.db
 UpgradeLog.htm
+Automation_*
+
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
